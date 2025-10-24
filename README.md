@@ -3,7 +3,7 @@
 I'm a **hobby developer** passionate about building **web applications** — especially with **PHP** and **Laravel**.  
 I enjoy turning ideas into functional, elegant, and well-structured code – from small tools to complete web projects.
 
----
+
 
 ## 💻 About Me
 
@@ -12,7 +12,7 @@ I enjoy turning ideas into functional, elegant, and well-structured code – fro
 - 🎨 Interested in **frontend usability** and **modern UI design**  
 - 📚 Currently exploring **Laravel Livewire**, **Filament**, and **Tailwind CSS** 
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -23,7 +23,6 @@ I enjoy turning ideas into functional, elegant, and well-structured code – fro
 | Tools & Workflow | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) |
 
 
----
 <!--
 ## 🚀 Featured Projects
 
@@ -43,7 +42,6 @@ If you’d like to collaborate, exchange ideas, or just chat about web developme
 Or find me on:  
 🐘 Mastodon / 💬 Discord / 🧠 dev.to *(optional)*
 -->
----
 
 ⭐ **If you like any of my projects, consider giving them a star!**  
 Thanks for visiting 🙌
